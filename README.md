@@ -20,17 +20,29 @@ It will have a dashboard and able to send alert by mail or SMS, thanks to LPWAN 
 This project have some main objectives :
 
 ## Constraints
-### Constraints on the system
 The main constraints of the project are :
+### Constraints on the system
+
 - **Being autonomous**
 
 *The system has a battery, that have to recharge thanks to a solar panel.*
+
 - **Low consumption**
 
 *The system has to be energy efficient, to match with the previous point and last the longest time possible before being recharged.*
 
+- **Be able to switch the system on and off**
+
+*It is mandatory to add a button to be able to switch the system on or off, when needed*
+
+- **A Built-In LED has to be lit at the start of the system**
+
+*To show that the system started correctly, the built-in LED has to be lit at the start of the monitoring system*
+
 ### Constraints on the data
- 
+
+- **
+
 
 # Components
 
