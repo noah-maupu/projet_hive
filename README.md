@@ -25,7 +25,8 @@ The system has a battery, that have to recharge thanks to a solar panel.
 - Low consumption
 
 The system has to be energy efficient, to match with the previous point and last the longest time possible before be recharged.
-- 
+
+
 # Components
 ## Microcontroller
 ## Sensors
