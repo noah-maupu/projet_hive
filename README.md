@@ -10,6 +10,8 @@ Monitoring system for beehive using Ubidots STEM, Microsoft Azure and Arduino mi
 
 # What is the project ?
 ## Project presentation
+Nowadays, bees are more and more threatened, by predators or even by their environnement (pollution, climate change).
+Thus, the use of connected hives is exponentially increasing.
 The goal of this project is to assemble a system that monitor beehives activities.
 This system has to be autonomous and reliable to allow apiarists to look after their apiary.
 It will have a dashboard and able to send alert by mail or SMS, thanks to LPWAN (Low Power Wide Area Network)
@@ -18,17 +20,22 @@ It will have a dashboard and able to send alert by mail or SMS, thanks to LPWAN 
 This project have some main objectives :
 
 ## Constraints
+### Constraints on the system
 The main constraints of the project are :
-- Being autonomous
+- **Being autonomous**
 
-The system has a battery, that have to recharge thanks to a solar panel.
-- Low consumption
+*The system has a battery, that have to recharge thanks to a solar panel.*
+- **Low consumption**
 
-The system has to be energy efficient, to match with the previous point and last the longest time possible before be recharged.
+*The system has to be energy efficient, to match with the previous point and last the longest time possible before being recharged.*
 
+### Constraints on the data
+ 
 
 # Components
+
 ## Microcontroller
+
 ## Sensors
 
 # Code
