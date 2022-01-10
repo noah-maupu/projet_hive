@@ -53,7 +53,7 @@ The main constraints of the project are :
 
 *High level of requirements data must be implemented first, in priority and must be the most watched ones*
 
-*High level of requirements :*
+**High level of requirements :**
 
 *- Inside temperature, with an accuracy of 0.1°C*
 
