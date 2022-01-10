@@ -41,7 +41,19 @@ The main constraints of the project are :
 
 ### Constraints on the data
 
-- **
+- **Data must be sent every 10 minutes**
+
+*The data collected must be sent to the Cloud system every 10 minutes*
+
+- **Differents levels of requirements on the data**
+
+*The wanted accuracy differs according to the collected data*
+
+*For example, the level of requirements on the inside temperature is higher than the luminosity one.*
+
+*High level of accuracy :*
+
+*
 
 
 # Components
