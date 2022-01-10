@@ -3,7 +3,9 @@ Monitoring system for beehive using Ubidots STEM, Microsoft Azure and Arduino mi
 
 ### Features
 - Monitoring hive activity
+
 - Getting temperature and humidity inside and outside of the beehive
+
 - Autonomous system thanks to a solar panel recharge
 
 
@@ -16,8 +18,20 @@ The goal of this project is to assemble a system that monitor beehives activitie
 This system has to be autonomous and reliable to allow apiarists to look after their apiary.
 It will have a dashboard and able to send alert by mail or SMS, thanks to LPWAN (Low Power Wide Area Network)
 
-## Objectives
-This project have some main objectives :
+## Main steps of the project
+
+- Research and discussion between members on how to create this monitoring system
+
+- Familiarization with the chosen sensors and how to code using them
+
+- Creation of a prototype
+
+- Creation of a PCB Circuit to implement the prototype on it
+
+- Optimization 
+
+- Deployment of the system on an apiary
+
 
 ## Constraints
 The main constraints of the project are :
@@ -64,12 +78,27 @@ The main constraints of the project are :
 *- The battery state, with an accuracy of 1%*
 
 
+**Moderate level of requirements :**
+
+*- Have several temperature sensors to be more precise*
+
+*- Humidity sensors inside and outside the beehive*
+
+
+**Low level of requirements :**
+
+*- Environnement luminosity*
+
+*- Daylight time in a day*
+
+
 
 # Components
+Link to the Hackster.io page of the project :
 
-## Microcontroller
+[Link]
 
-## Sensors
 
 # Code
+
 
