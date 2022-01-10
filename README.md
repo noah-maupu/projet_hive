@@ -1,5 +1,6 @@
 # Project : Autonomous hive monitor
 Monitoring system for beehive using Ubidots STEM, Microsoft Azure and Arduino microcontroller.
+All the codes and components explanations are on the Hackster.io project page, the link is at the bottom of the page.
 
 ### Features
 - Monitoring hive activity
@@ -93,12 +94,10 @@ The main constraints of the project are :
 
 
 
-# Components
+# Components & Codes
 Link to the Hackster.io page of the project :
 
 [Link]
 
-
-# Code
 
 
