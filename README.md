@@ -51,9 +51,18 @@ The main constraints of the project are :
 
 *For example, the level of requirements on the inside temperature is higher than the luminosity one.*
 
-*High level of accuracy :*
+*High level of requirements data must be implemented first, in priority and must be the most watched ones*
 
-*
+*High level of requirements :*
+
+*- Inside temperature, with an accuracy of 0.1°C*
+
+*- Outside temperature, with an accuracy of 0.1°C*
+
+*- Hive's weight, with an accuracy of 100g*
+
+*- The battery state, with an accuracy of 1%*
+
 
 
 # Components
