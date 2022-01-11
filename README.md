@@ -103,7 +103,7 @@ Upload your code in your Arduino Nano BLE Sense 33 microcontroller
 
 You can use the Arduino IDE
 
-Go to ** *File -> Open* **, open ** *"OpenRucheSoftware.ino"* **
+Go to ***File -> Open***, open ** *"OpenRucheSoftware.ino"* **
 **WARNING !** Check that the COM port selected is the port where your Arduino is detected
 
 To do so, go to 
