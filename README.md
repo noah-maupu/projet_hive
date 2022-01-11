@@ -95,8 +95,7 @@ The main constraints of the project are :
 
 # Getting Started
 
-You clone the repo on your machine
-
+You clone the repo on your machine  
 `$ git clone https://github.com/noah-maupu/projet_hive.git`
 
 In the Arduino IDE, go to ***File -> Open***, open ***"OpenRucheSoftware.ino"***
@@ -109,7 +108,8 @@ Upload your code in your Arduino Nano BLE Sense 33 microcontroller, by clicking 
 
 
 How to download the Arduino IDE ?  
-https://www.arduino.cc/en/software  
+https://www.arduino.cc/en/software 
+ 
 Download the package for your version of your OS (Windows, MacOS or Linux and 32-bits or 64-bits), a tutorial is available on their site.  
 
 
