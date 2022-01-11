@@ -99,7 +99,6 @@ You clone the repo on your machine
 
 `$ git clone https://github.com/noah-maupu/projet_hive.git`
 
-Upload your code in your Arduino Nano BLE Sense 33 microcontroller
 
 You can use the Arduino IDE
 
@@ -109,15 +108,12 @@ Go to ***File -> Open***, open ***"OpenRucheSoftware.ino"***
 
 To do so, go to ***Tools -> Port***, select the port with the name of your microcontroller.
 
+Upload your code in your Arduino Nano BLE Sense 33 microcontroller, by clicking on ***Flash***, the arrow icon next to the checkmark on the top-left of the screen.
+
 
 How to download the Arduino IDE ?
-- Windows
 
-https://www.arduino.cc/en/software
-
-- Linux (Debian/Ubuntu)
-
-Download the package of your version (32-bits or 64-bits), a tutorial is available on their site.
+Download the package for your version of your OS (Windows, MacOS or Linux and 32-bits or 64-bits), a tutorial is available on their site.
 
 https://www.arduino.cc/en/software
 
