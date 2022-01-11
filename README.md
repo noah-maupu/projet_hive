@@ -95,7 +95,7 @@ The main constraints of the project are :
 
 # Getting Started
 
-You clone the repo on your machine  
+Clone the repo on your machine  
 `$ git clone https://github.com/noah-maupu/projet_hive.git`
 
 In the Arduino IDE, go to ***File -> Open***, open ***"OpenRucheSoftware.ino"***
