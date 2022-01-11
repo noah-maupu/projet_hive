@@ -108,11 +108,9 @@ To do so, go to ***Tools -> Port***, select the port with the name of your micro
 Upload your code in your Arduino Nano BLE Sense 33 microcontroller, by clicking on ***Flash***, the arrow icon next to the checkmark on the top-left of the screen.
 
 
-How to download the Arduino IDE ? 
-https://www.arduino.cc/en/software 
-Download the package for your version of your OS (Windows, MacOS or Linux and 32-bits or 64-bits), a tutorial is available on their site. 
-
-
+How to download the Arduino IDE ?  
+https://www.arduino.cc/en/software  
+Download the package for your version of your OS (Windows, MacOS or Linux and 32-bits or 64-bits), a tutorial is available on their site.  
 
 
 
