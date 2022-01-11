@@ -100,11 +100,14 @@ Clone the repo on your machine
 
 In the Arduino IDE, go to ***File -> Open***, open ***"OpenRucheSoftware.ino"***
 
-**WARNING !** Check that the COM port selected is the port where your Arduino is detected
-
+**WARNING !**  
+- Check that the COM port selected is the port where your Arduino is detected  
 To do so, go to ***Tools -> Port***, select the port with the name of your microcontroller.
 
-Upload your code in your Arduino Nano BLE Sense 33 microcontroller, by clicking on ***Flash***, the arrow icon next to the checkmark on the top-left of the screen.
+- Check that you are using the good setting for your microcontroller  
+To do so, go to ***Tools -> Card Type*** and select the ***"Arduino Nano BLE Sense 33"***
+
+Upload your code in your Arduino Nano BLE Sense 33 microcontroller, by clicking on ***Upload***, the arrow icon next to the checkmark on the top-left of the screen.
 
 
 How to download the Arduino IDE ?  
