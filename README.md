@@ -93,6 +93,23 @@ The main constraints of the project are :
 *- Daylight time in a day*
 
 
+# Getting Started
+
+You clone the repo on your machine
+`$ git clone https://github.com/noah-maupu/projet_hive.git`
+
+Upload your code in your Arduino Nano BLE Sense 33 microcontroller
+You can use the Arduino IDE
+
+How to download the Arduino IDE ?
+- Windows
+
+https://www.arduino.cc/en/software
+
+- Linux (Debian/Ubuntu)
+
+'
+
 
 # Components & Codes
 Link to the Hackster.io page of the project :
