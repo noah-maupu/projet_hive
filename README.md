@@ -96,10 +96,17 @@ The main constraints of the project are :
 # Getting Started
 
 You clone the repo on your machine
+
 `$ git clone https://github.com/noah-maupu/projet_hive.git`
 
 Upload your code in your Arduino Nano BLE Sense 33 microcontroller
+
 You can use the Arduino IDE
+
+Go to ** *File -> Open* **, open ** *"OpenRucheSoftware.ino"* **
+**WARNING !** Check that the COM port selected is the port where your Arduino is detected
+
+To do so, go to 
 
 How to download the Arduino IDE ?
 - Windows
@@ -108,7 +115,10 @@ https://www.arduino.cc/en/software
 
 - Linux (Debian/Ubuntu)
 
-'
+Download the package of your version (32-bits or 64-bits), a tutorial is available on their site.
+
+https://www.arduino.cc/en/software
+
 
 
 # Components & Codes
