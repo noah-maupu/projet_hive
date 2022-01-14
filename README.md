@@ -116,6 +116,27 @@ https://www.arduino.cc/en/software
 Download the package for your version of your OS (Windows, MacOS or Linux and 32-bits or 64-bits), a tutorial is available on their site.  
 
 
+# Credits
+
+## Developers
+
+This project has been developed as a educationnal project. We, the developers, are studying computer sciences, specialized in embedded systems.  
+- MAUPU Noah  
+- RAIMBAUD Quentin    
+- SAVVIDIS Constantinos   
+- GENTY Julien  
+
+
+## Used librairies 
+
+- DHT.h -> needed for the use of the DHT sensors
+[Source for the DHT.h](https://github.com/adafruit/DHT-sensor-library/blob/master/DHT.h)
+
+- HX711.h -> needed for the initialization (scaling, etc) of the HX711 weight sensor  
+[Source for the HX711.h](https://github.com/bogde/HX711)
+
+- MaximWire.h -> needed for the use of the DS18B20 temperature sensors 
+[Source for the MaximWire.h](https://github.com/adameat/MaximWire)
 
 # External links
 
