@@ -117,10 +117,8 @@ Download the package for your version of your OS (Windows, MacOS or Linux and 32
 
 
 
-# Components & Codes
-Link to the Hackster.io page of the project :
+# External links
 
-[Link]
-
+[Link to the Hackster.io page of the project] (https://www.hackster.io/noahmaupu/hive-monitoring-system-05767d)
 
 
