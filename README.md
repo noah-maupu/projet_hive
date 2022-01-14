@@ -129,7 +129,7 @@ This project has been developed as a educationnal project. We, the developers, a
 
 ## Used librairies 
 
-- DHT.h -> needed for the use of the DHT sensors
+- DHT.h -> needed for the use of the DHT sensors  
 [Source for the DHT.h](https://github.com/adafruit/DHT-sensor-library/blob/master/DHT.h)
 
 - HX711.h -> needed for the initialization (scaling, etc) of the HX711 weight sensor  
