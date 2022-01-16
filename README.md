@@ -5,8 +5,6 @@ All the codes and components explanations are on the Hackster.io project page, t
 ### Features
 - Monitoring hive activity
 
-- Getting temperature and humidity inside and outside of the beehive
-
 - Autonomous system thanks to a solar panel recharge
 
 
